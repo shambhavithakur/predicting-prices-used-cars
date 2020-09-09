@@ -6,7 +6,9 @@
 
 In this project, my goal was to build a price-prediction model based on a dataset about cars on the US market. As the dataset had labeled data, I used supervised-learning techniques to take the project to completion.
 
-I wanted the most accurate model, so, instead of building just one model, I built three models and assessed their performance. Based on the assessment, I chose a model that promised the highest degree of accuracy as well as efficiency. The three models that I built in this project are a linear regressor, a random-forest regressor, and an XGBoost regressor.
+I wanted the most accurate model. So, instead of building just one model, I built three models and assessed their performance.
+
+Finally, I chose a model that promised the highest degree of accuracy as well as efficiency. The three models that I built in this project are a linear regressor, a random-forest regressor, and an XGBoost regressor.
 
 In the steps that lead up to model selection, I cleaned data, employed Extratreesregressor and BayesianRidge to impute missing values with estimates, uniformized variables, and removed outliers.
 
