@@ -52,4 +52,4 @@ To achieve the project objectives, I worked through the following steps:
 
 ## Further details
 
-For further details about this project, refer to the corresponding [project page](https://sthakur.work/project/predicting-prices-of-used-cars/) and [detailed notebook](https://www.kaggle.com/shamaa/how-to-predict-prices-of-used-cars/). The notebook is available on Kaggle as well as this GitHub repository.
+For further details about this project, refer to the corresponding [project page](https://sthakur.work/project/predicting-prices-of-used-cars/) and [detailed notebook](https://www.kaggle.com/shambhavithakur/how-to-predict-prices-of-used-cars). The notebook is available on Kaggle as well as this GitHub repository.
