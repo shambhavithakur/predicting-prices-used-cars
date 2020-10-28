@@ -52,4 +52,4 @@ To achieve the project objectives, I worked through the following steps:
 
 ## Further details
 
-For further details about this project, refer to the corresponding [project page](https://sthakur.work/project/predicting-prices-of-used-cars/) and [detailed notebook]((https://github.com/shambhavithakur/predicting-prices-used-cars/blob/master/how-to-predict-prices-of-used-cars.ipynb).
+For further details about this project, refer to the corresponding [project page](https://sthakur.work/project/predicting-prices-of-used-cars/) and [detailed notebook](https://github.com/shambhavithakur/predicting-prices-used-cars/blob/master/how-to-predict-prices-of-used-cars.ipynb).
